@@ -1,1 +1,1 @@
-Repositório criado com intuito de divulgar projetos pessoais de maiores complexidades;
+Repositório criado com intuito de divulgar projetos pessoais de maior complexidade, trazendo amplo uso de ferramentas do campo da ciência de dados, bem como insights e resoluções de problemas do mercado atual ;
